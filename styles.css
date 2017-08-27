@@ -8,7 +8,7 @@ html, body {
 .background {
   width: 100%;
   height: 100%;
-  background-image: url('images/buella.png');
+  background-image: url('images/buella.jpg');
   background-size: cover;
 }
 
