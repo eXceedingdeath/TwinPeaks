@@ -1,3 +1,3 @@
 # TwinPeaks
 
-http://sunstarsmoon.com/TwinPeaks/
+http://theghostswithin.fr/TwinPeaks/
