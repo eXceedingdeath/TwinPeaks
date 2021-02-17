@@ -1,3 +1,3 @@
 # TwinPeaks
 
-http://theghostswithin.fr/TwinPeaks/
+http://pascalmaumejean.eu/TwinPeaks/
